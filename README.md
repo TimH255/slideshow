@@ -20,6 +20,9 @@ slideshow.html which has a single div containing a number of jpegs that fill the
 available space and are alternately turned on and off by a simple bit of javascript. The
 basic idea for this came from w3schools.com
 
+style.css is very basic. I intend to play around with things a bit in the future, but
+it suits my needs at the moment.
+
 script.js is housed in a separate file, because the html for the page is created dynamically by a
 batch file (update.bat) that sits in the images subfolder, along with all the jpegs.
 
