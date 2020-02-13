@@ -34,7 +34,7 @@ is created, this two digit number becomes a pseudo id, which the javascript then
 define the time the slide is displayed for. I have very little experience of batch files,
 so getting this working took several trips to stackoverflow and other sites!
 
-Slides without the _## are displayed for a default period (as the script is currently written,
+Slides without the _ are displayed for a default period (as the script is currently written,
 this is 10 seconds).
 
 Finally, after the final slide is displayed, the page refreshes, thereby picking up any new
@@ -42,3 +42,6 @@ slides, or changes to slide order and display time.
 
 I am not a programmer, so please forgive me if my coding is unconventional etc. The important
 thing is that it works!
+
+This is designed for displaying slides full screen on widescreen displays, hence all the sample slides are
+16:9 format. It will obviously work with any image file recognised by html.
