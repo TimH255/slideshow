@@ -1,6 +1,8 @@
 # slideshow
 A very simple html based slideshow
 
+***I've created a vastly improved and updated version now - just leaving this on for interest's sake. I'll upload the newer version when I get the chance.***
+
 I needed to create a means of displaying slides on plasma screens in the workplace,
 which had to run off a file stored on a network drive.
 
